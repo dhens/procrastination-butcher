@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Create React Express App
-=======
-# Procrastination Butcher
->>>>>>> 9dc9431720742ff472ef13e1f143b8479e403ed0
 
 ## About This Boilerplate
 
