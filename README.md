@@ -1,4 +1,4 @@
-# Create React Express App
+# Procrastination Butcher [![Build Status](https://travis-ci.com/dhens/procrastination-butcher.svg?branch=master)](https://travis-ci.com/dhens/procrastination-butcher)
 
 ## About This Boilerplate
 
