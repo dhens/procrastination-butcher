@@ -1,7 +1,7 @@
 {
-  "name": "MERN-Boilerplate",
+  "name": "Procrastination Butcher",
   "version": "1.0.0",
-  "description": "Stop configuring your MERN projects EVERY time you start a new one!",
+  "description": "Get your tasks done with the help of your local procrastination butcher!",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
