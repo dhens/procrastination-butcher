@@ -1,5 +1,5 @@
 {
-  "name": "Procrastination Butcher",
+  "name": "procrastination-butcher",
   "version": "1.0.0",
   "description": "Get your tasks done with the help of your local procrastination butcher!",
   "main": "server.js",
