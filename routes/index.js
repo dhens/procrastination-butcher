@@ -5,7 +5,7 @@ router.get('/', (req, res) => {
 });
 
 router.post('/post', (req, res) => {
-    res.send(`body received: ${JSON.stringify(req.body)}`);
+    res.send(`body received: ${req.body}`);
 });
 
 module.exports = router;
